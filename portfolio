@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Analytics Portfolio</title>
+    <!-- Add any CSS libraries or custom stylesheets here -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Data Analytics Portfolio</h1>
+        <!-- Add any navigation links here -->
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Add a brief introduction about yourself, your skills, and your experience in data analytics.</p>
+        </section>
+        <section id="projects">
+            <h2>Projects</h2>
+            <!-- List your data analytics projects here -->
+            <div class="project">
+                <h3>Project Title</h3>
+                <p>Description of the project.</p>
+                <p>Technologies/Languages used: Python, SQL, Excel, etc.</p>
+                <a href="project_link">View Project</a>
+            </div>
+            <!-- Repeat this structure for each project -->
+        </section>
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <p>Add your contact information here, such as email or LinkedIn profile link.</p>
+        </section>
+    </main>
+    <footer>
+        <!-- Add any footer content here -->
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
